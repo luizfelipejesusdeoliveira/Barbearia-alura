@@ -2,6 +2,7 @@ body{background-color: darkmagenta;}
 
 h1 {
     text-align: center;
+    color: darkgoldenrod;
 
 }
 
@@ -9,3 +10,5 @@ p {
     text-align: center;
     
 }
+
+em strong {color: greenyellow;}
