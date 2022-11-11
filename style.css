@@ -1,8 +1,8 @@
-body{background-color: darkmagenta;}
+body{background-color: rgb(0, 0, 0);}
 
 h1 {
     text-align: center;
-    color: darkgoldenrod;
+    color: rgb(13, 0, 255);
 
 }
 
@@ -11,4 +11,4 @@ p {
     
 }
 
-em strong {color: greenyellow;}
+em strong {color: rgba(255, 255, 255, 0);}
